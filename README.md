@@ -3,11 +3,6 @@ The official implementation of Design as Desired: Utilizing Visual Question Answ
 
 ![image](https://github.com/MoramiSu/QFT/assets/91274335/89de6b63-6392-467b-a6a2-407cd50fd95a)
 
-# Poster
-<center>
-    <img src="[https://xxxx](https://github.com/user-attachments/assets/b457d971-1a02-4355-b66b-05ff67c890dd)" width="400">
-</center>
-
 # Main Results
 **Results in Visual Recognition**
 
@@ -20,6 +15,9 @@ The official implementation of Design as Desired: Utilizing Visual Question Answ
 ![image](https://github.com/user-attachments/assets/dfde0608-c483-4e68-98fd-9637df213ab5)
 
 ![image](https://github.com/user-attachments/assets/bdab2fe5-164d-4c88-aa00-9f3283e27f28)
+
+# Poster
+[Poster.pdf](https://github.com/user-attachments/files/17173861/Poster.pdf)
 
 # Implementation
 **Setting**
