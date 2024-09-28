@@ -10,7 +10,7 @@ The official implementation of Design as Desired: Utilizing Visual Question Answ
 
 ![image](https://github.com/user-attachments/assets/008e3bfc-17df-49e5-92b4-deceb181b1d9)
 
-**Results in Report Generation**
+### Results in Report Generation
 
 ![image](https://github.com/user-attachments/assets/dfde0608-c483-4e68-98fd-9637df213ab5)
 
