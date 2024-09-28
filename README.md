@@ -22,6 +22,7 @@ The official implementation of Design as Desired: Utilizing Visual Question Answ
 # Implementation
 **Setting**
 - Set the hyperparameter and path in ./constants.py
+
 **Run training process**
 - Run ./models/QFT/QFT_training.py to train the model.
 ```
